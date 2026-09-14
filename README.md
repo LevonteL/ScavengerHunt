@@ -38,6 +38,12 @@ The app includes tasks such as:
 - Find something outdoors
 - Take a photo of something interesting
 
+## Video Walkthrough
+
+Here's a walkthrough of the implemented features:
+
+[View Scavenger Hunt Walkthrough][https://www.loom.com/share/7cdb17134ee741508af30f757ef1cfd9](https://www.loom.com/share/7cdb17134ee741508af30f757ef1cfd9
+
 ## Author
 
 Levonte Lawrence
